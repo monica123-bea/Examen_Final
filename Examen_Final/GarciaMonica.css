@@ -1,0 +1,28 @@
+body{
+    background: #6495ed;
+    
+}
+
+li{
+    color:black;
+    background: none;
+    margin: 0.5%;
+    background: #7fffd4;
+
+}
+
+h4{
+    color: green;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    background: darkorange;
+
+
+}
+  
+strong{
+    color: blue;
+}
